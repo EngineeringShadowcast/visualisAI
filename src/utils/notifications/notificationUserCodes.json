@@ -1,0 +1,54 @@
+[
+  {
+    "notification_code": 511,
+    "notification_type": "Account",
+    "title": "Update on Account Support Request [ticketNumber] ",
+    "messageHeading": "Update on Account Support Request [ticketNumber] ",
+    "message": " [userName] \n This email is to provide an update on your support request with Ticket [ticketNumber] ",
+    "messageInHTML": "<p style=\"color:#455056; font-size:15px;line-height:24px; margin:0;\"> [userName] <br> This email is to provide an update on your support request with Ticket [ticketNumber] <br> The fix has been implemented and the issue should no longer exist. Please let us know if you experience any further problems.<br> We appreciate your patience and understanding. <br><br/>Team Sheepdog Therapeutics</p>",
+    "android_push": false,
+    "ios_push": false,
+    "sms": false,
+    "oculus_push": false,
+    "whatsapp_send": false,
+    "inSystem": false,
+    "email": true,
+    "webPush": false,
+    "image":null
+  },
+  {
+    "notification_code": 521,
+    "notification_type": "Account",
+    "title": "Bug Fix Update Ticket [ticketNumber] ",
+    "messageHeading": "Bug Fix Update (Ticket [ticketNumber] )",
+    "message": "We're happy to inform you that the bug you reported with Ticket [ticketNumber] has been fixed. \n The fix has been implemented and the issue should no longer exist. \n We appreciate your patience and for helping us improve by bringing this bug to our attention.",
+    "messageInHTML": "<p style=\"color:#455056; font-size:15px;line-height:24px; margin:0;\"> [userName] <br> We're happy to inform you that the bug you reported with Ticket [ticketNumber] has been fixed. <br> The fix has been implemented and the issue should no longer exist. <br> We appreciate your patience and for helping us improve by bringing this bug to our attention. <br><br/>Team Sheepdog Therapeutics</p>",
+    "android_push": false,
+    "ios_push": false,
+    "sms": false,
+    "oculus_push": false,
+    "whatsapp_send": false,
+    "inSystem": false,
+    "email": true,
+    "webPush": false,
+    "image":null
+  }, 
+  {
+    "notification_code": 531,
+    "notification_type": "General",
+    "title": "Reset Link For Forgot Password!",
+    "messageHeading": "Reset Link For Forgot Password!",
+    "message": "We've received a request to reset the password for your account at Sheepdog Therapeutics Entertainment and Gaming Metaverse. Please click the link below to reset your password. The Sheepdog Therapeutics Team",
+    "messageInHTML": "<p style=\"color: #555555\">Hello, </p> <p style=\"color: #555555\"> We received a request to reset your password. If you did not make this request, please ignore this email.</p> <p style=\"color: #555555\"> To reset your password, click the button below:</p> <ahref= [resetLink] style=\"display: inline-block; padding: 10px 20px; background: linear-gradient(90deg, #FBBC5E 0.13%, #F3A151 99.89%); color: #000; text-decoration: none; border-radius: 5px;\"> Reset Password</a><p style=\"color: #555555\">This link will expire in 1 hour for security reasons.</p> <p style=\"color: #555555\">If you have any questions, please contact support.</p> <div style=\"margin-top: 20px; text-align: left; color: #888888\"><p> Thank you, </p><p>Team<b>Sheepdog Therapeutics</b></p></div>",
+    "android_push": false,
+    "ios_push": false,
+    "sms": false,
+    "oculus_push": false,
+    "whatsapp_send": false,
+    "inSystem": false,
+    "email": true,
+    "webPush": false,
+    "image":null
+  }
+  
+]
